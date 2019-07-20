@@ -1,25 +1,23 @@
 <template>
-    <div>ShoppingCart</div>
+  <div>ShoppingCart</div>
 </template>
 
 <script>
-    export default {
-        name: "ShoppingCart",
-        components: {},
-        props: {},
-        data() {
-            return {};
-        },
-        methods: {},
-        mounted() {
-        },
-        created() {
-        },
-        filters: {},
-        computed: {},
-        watch: {},
-        directives: {}
-    };
+export default {
+  name: "ShoppingCart",
+  components: {},
+  props: {},
+  data() {
+    return {};
+  },
+  methods: {},
+  mounted() {},
+  created() {},
+  filters: {},
+  computed: {},
+  watch: {},
+  directives: {}
+};
 </script>
 
 <style scoped lang="scss"></style>
